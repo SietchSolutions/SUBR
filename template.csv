@@ -1,0 +1,1099 @@
+station_type,material_name,material_required
+Orbital - Installation - Tourist,Wine,259
+Orbital - Installation - Space Bar,Wine,621
+Surface - Settlement - Tourism T1 S,Wine,156
+Surface - Settlement - Tourism T1 M,Wine,312
+Surface - Settlement - Tourism T2 L,Wine,468
+Orbital - Starport - Coriolis,Water Purifiers,105
+Orbital - Starport - Asteroid Base,Water Purifiers,105
+Orbital - Starport - Ocellus,Water Purifiers,210
+Orbital - Starport - Orbis,Water Purifiers,210
+Orbital - Outpost - Commercial,Water Purifiers,38
+Orbital - Outpost - Industrial,Water Purifiers,38
+Orbital - Outpost - Criminal,Water Purifiers,38
+Orbital - Outpost - Civilian,Water Purifiers,38
+Orbital - Outpost - Scientific,Water Purifiers,38
+Orbital - Outpost - Military,Water Purifiers,38
+Orbital - Installation - Satellite,Water Purifiers,13
+Orbital - Installation - Comm Station,Water Purifiers,13
+Orbital - Installation - Space Farm,Water Purifiers,31
+Orbital - Installation - Pirate Base,Water Purifiers,16
+Orbital - Installation - Mining Outpost,Water Purifiers,22
+Orbital - Installation - Relay Station,Water Purifiers,15
+Orbital - Installation - Military,Water Purifiers,42
+Orbital - Installation - Security Station,Water Purifiers,19
+Orbital - Installation - Government,Water Purifiers,31
+Orbital - Installation - Medical,Water Purifiers,38
+Orbital - Installation - Research Station,Water Purifiers,38
+Orbital - Installation - Tourist,Water Purifiers,39
+Orbital - Installation - Space Bar,Water Purifiers,38
+Orbital - Starport - Coriolis,Water,1609
+Orbital - Starport - Asteroid Base,Water,1609
+Orbital - Starport - Ocellus,Water,6436
+Orbital - Starport - Orbis,Water,6436
+Orbital - Outpost - Commercial,Water,621
+Orbital - Outpost - Industrial,Water,621
+Orbital - Outpost - Criminal,Water,621
+Orbital - Outpost - Civilian,Water,621
+Orbital - Outpost - Scientific,Water,621
+Orbital - Outpost - Military,Water,621
+Orbital - Installation - Satellite,Water,22
+Orbital - Installation - Comm Station,Water,22
+Orbital - Installation - Space Farm,Water,173
+Orbital - Installation - Pirate Base,Water,65
+Orbital - Installation - Mining Outpost,Water,73
+Orbital - Installation - Relay Station,Water,25
+Orbital - Installation - Military,Water,238
+Orbital - Installation - Security Station,Water,31
+Orbital - Installation - Government,Water,154
+Orbital - Installation - Medical,Water,278
+Orbital - Installation - Research Station,Water,157
+Orbital - Installation - Tourist,Water,324
+Orbital - Installation - Space Bar,Water,311
+Orbital - Starport - Coriolis,Titanium,8205
+Orbital - Starport - Asteroid Base,Titanium,8205
+Orbital - Starport - Ocellus,Titanium,32820
+Orbital - Starport - Orbis,Titanium,32820
+Orbital - Outpost - Commercial,Titanium,4843
+Orbital - Outpost - Industrial,Titanium,4843
+Orbital - Outpost - Criminal,Titanium,4843
+Orbital - Outpost - Civilian,Titanium,4843
+Orbital - Outpost - Scientific,Titanium,4843
+Orbital - Outpost - Military,Titanium,4843
+Orbital - Installation - Satellite,Titanium,1525
+Orbital - Installation - Comm Station,Titanium,1525
+Orbital - Installation - Space Farm,Titanium,1453
+Orbital - Installation - Pirate Base,Titanium,1594
+Orbital - Installation - Mining Outpost,Titanium,1628
+Orbital - Installation - Relay Station,Titanium,1755
+Orbital - Installation - Military,Titanium,2373
+Orbital - Installation - Security Station,Titanium,2309
+Orbital - Installation - Government,Titanium,2341
+Orbital - Installation - Medical,Titanium,2282
+Orbital - Installation - Research Station,Titanium,2383
+Orbital - Installation - Tourist,Titanium,1813
+Orbital - Installation - Space Bar,Titanium,1738
+Surface - Planetary Port - Outpost Civilian,Titanium,5760
+Surface - Planetary Port - Outpost Industrial,Titanium,5760
+Surface - Planetary Port - Outpost Scientific,Titanium,5760
+Surface - Planetary Port - Port,Titanium,34560
+Surface - Settlement - Industrial T1 S,Thermal Cooling Units,14
+Surface - Settlement - Industrial T1 M,Thermal Cooling Units,28
+Surface - Settlement - Industrial T2 L,Thermal Cooling Units,42
+Surface - Hub - Refinery,Thermal Cooling Units,103
+Surface - Hub - High Tech,Thermal Cooling Units,211
+Surface - Hub - Industrial,Thermal Cooling Units,117
+Orbital - Installation - Tourist,Tea,259
+Orbital - Installation - Space Bar,Tea,178
+Surface - Settlement - Tourism T1 S,Tea,170
+Surface - Settlement - Tourism T1 M,Tea,340
+Surface - Settlement - Tourism T2 L,Tea,510
+Surface - Planetary Port - Outpost Civilian,Survival Equipment,55
+Surface - Planetary Port - Outpost Industrial,Survival Equipment,55
+Surface - Planetary Port - Outpost Scientific,Survival Equipment,55
+Surface - Planetary Port - Port,Survival Equipment,220
+Surface - Settlement - Agriculture T1 S,Survival Equipment,14
+Surface - Settlement - Agriculture T1 M,Survival Equipment,28
+Surface - Settlement - Agriculture T2 L,Survival Equipment,42
+Surface - Settlement - Extraction T1 S,Survival Equipment,15
+Surface - Settlement - Extraction T1 M,Survival Equipment,30
+Surface - Settlement - Extraction T2 L,Survival Equipment,45
+Surface - Settlement - Industrial T1 S,Survival Equipment,14
+Surface - Settlement - Industrial T1 M,Survival Equipment,28
+Surface - Settlement - Industrial T2 L,Survival Equipment,42
+Surface - Settlement - Military T1 S,Survival Equipment,24
+Surface - Settlement - Military T1 M,Survival Equipment,48
+Surface - Settlement - Military T2 L,Survival Equipment,72
+Surface - Settlement - Research Bio T1 S,Survival Equipment,14
+Surface - Settlement - Research Bio T1 M,Survival Equipment,28
+Surface - Settlement - Research Bio T2 L,Survival Equipment,42
+Surface - Settlement - Tourism T1 S,Survival Equipment,15
+Surface - Settlement - Tourism T1 M,Survival Equipment,30
+Surface - Settlement - Tourism T2 L,Survival Equipment,45
+Surface - Hub - Extraction,Survival Equipment,26
+Surface - Hub - Civilian,Survival Equipment,38
+Surface - Hub - Exploration,Survival Equipment,18
+Surface - Hub - Outpost,Survival Equipment,29
+Surface - Hub - Scientific,Survival Equipment,27
+Surface - Hub - Military,Survival Equipment,50
+Surface - Hub - Refinery,Survival Equipment,28
+Surface - Hub - High Tech,Survival Equipment,27
+Surface - Hub - Industrial,Survival Equipment,25
+Surface - Planetary Port - Outpost Civilian,Surface Stabilisers,610
+Surface - Planetary Port - Outpost Industrial,Surface Stabilisers,610
+Surface - Planetary Port - Outpost Scientific,Surface Stabilisers,610
+Surface - Planetary Port - Port,Surface Stabilisers,3660
+Surface - Settlement - Agriculture T1 S,Surface Stabilisers,56
+Surface - Settlement - Agriculture T1 M,Surface Stabilisers,112
+Surface - Settlement - Agriculture T2 L,Surface Stabilisers,168
+Surface - Settlement - Extraction T1 S,Surface Stabilisers,89
+Surface - Settlement - Extraction T1 M,Surface Stabilisers,178
+Surface - Settlement - Extraction T2 L,Surface Stabilisers,267
+Surface - Settlement - Industrial T1 S,Surface Stabilisers,68
+Surface - Settlement - Industrial T1 M,Surface Stabilisers,136
+Surface - Settlement - Industrial T2 L,Surface Stabilisers,204
+Surface - Settlement - Military T1 S,Surface Stabilisers,60
+Surface - Settlement - Military T1 M,Surface Stabilisers,120
+Surface - Settlement - Military T2 L,Surface Stabilisers,180
+Surface - Settlement - Research Bio T1 S,Surface Stabilisers,81
+Surface - Settlement - Research Bio T1 M,Surface Stabilisers,162
+Surface - Settlement - Research Bio T2 L,Surface Stabilisers,243
+Surface - Settlement - Tourism T1 S,Surface Stabilisers,57
+Surface - Settlement - Tourism T1 M,Surface Stabilisers,114
+Surface - Settlement - Tourism T2 L,Surface Stabilisers,171
+Surface - Hub - Extraction,Surface Stabilisers,756
+Surface - Hub - Civilian,Surface Stabilisers,588
+Surface - Hub - Exploration,Surface Stabilisers,1419
+Surface - Hub - Outpost,Surface Stabilisers,1061
+Surface - Hub - Scientific,Surface Stabilisers,534
+Surface - Hub - Military,Surface Stabilisers,583
+Surface - Hub - Refinery,Surface Stabilisers,558
+Surface - Hub - High Tech,Surface Stabilisers,539
+Surface - Hub - Industrial,Surface Stabilisers,498
+Orbital - Starport - Coriolis,Superconductors,282
+Orbital - Starport - Asteroid Base,Superconductors,282
+Orbital - Starport - Ocellus,Superconductors,564
+Orbital - Starport - Orbis,Superconductors,564
+Orbital - Outpost - Commercial,Superconductors,100
+Orbital - Outpost - Industrial,Superconductors,100
+Orbital - Outpost - Criminal,Superconductors,100
+Orbital - Outpost - Civilian,Superconductors,100
+Orbital - Outpost - Scientific,Superconductors,100
+Orbital - Outpost - Military,Superconductors,100
+Orbital - Installation - Satellite,Superconductors,60
+Orbital - Installation - Comm Station,Superconductors,60
+Orbital - Installation - Relay Station,Superconductors,59
+Orbital - Installation - Research Station,Superconductors,88
+Surface - Planetary Port - Outpost Civilian,Superconductors,136
+Surface - Planetary Port - Outpost Industrial,Superconductors,136
+Surface - Planetary Port - Outpost Scientific,Superconductors,136
+Surface - Planetary Port - Port,Superconductors,544
+Surface - Settlement - Industrial T1 S,Superconductors,14
+Surface - Settlement - Industrial T1 M,Superconductors,28
+Surface - Settlement - Industrial T2 L,Superconductors,42
+Surface - Settlement - Research Bio T1 S,Superconductors,21
+Surface - Settlement - Research Bio T1 M,Superconductors,42
+Surface - Settlement - Research Bio T2 L,Superconductors,63
+Surface - Hub - Scientific,Superconductors,72
+Surface - Hub - High Tech,Superconductors,108
+Surface - Hub - Industrial,Superconductors,75
+Surface - Planetary Port - Outpost Civilian,Structural Regulators,678
+Surface - Planetary Port - Outpost Industrial,Structural Regulators,678
+Surface - Planetary Port - Outpost Scientific,Structural Regulators,678
+Surface - Planetary Port - Port,Structural Regulators,2712
+Surface - Settlement - Agriculture T1 S,Structural Regulators,56
+Surface - Settlement - Agriculture T1 M,Structural Regulators,112
+Surface - Settlement - Agriculture T2 L,Structural Regulators,168
+Surface - Settlement - Extraction T1 S,Structural Regulators,74
+Surface - Settlement - Extraction T1 M,Structural Regulators,148
+Surface - Settlement - Extraction T2 L,Structural Regulators,222
+Surface - Settlement - Industrial T1 S,Structural Regulators,68
+Surface - Settlement - Industrial T1 M,Structural Regulators,136
+Surface - Settlement - Industrial T2 L,Structural Regulators,204
+Surface - Settlement - Military T1 S,Structural Regulators,101
+Surface - Settlement - Military T1 M,Structural Regulators,202
+Surface - Settlement - Military T2 L,Structural Regulators,303
+Surface - Settlement - Research Bio T1 S,Structural Regulators,81
+Surface - Settlement - Research Bio T1 M,Structural Regulators,162
+Surface - Settlement - Research Bio T2 L,Structural Regulators,243
+Surface - Settlement - Tourism T1 S,Structural Regulators,57
+Surface - Settlement - Tourism T1 M,Structural Regulators,114
+Surface - Settlement - Tourism T2 L,Structural Regulators,171
+Surface - Hub - Extraction,Structural Regulators,504
+Surface - Hub - Civilian,Structural Regulators,336
+Surface - Hub - Exploration,Structural Regulators,267
+Surface - Hub - Outpost,Structural Regulators,338
+Surface - Hub - Scientific,Structural Regulators,445
+Surface - Hub - Military,Structural Regulators,542
+Surface - Hub - Refinery,Structural Regulators,465
+Surface - Hub - High Tech,Structural Regulators,404
+Surface - Hub - Industrial,Structural Regulators,498
+Orbital - Starport - Coriolis,Steel,14076
+Orbital - Starport - Asteroid Base,Steel,14076
+Orbital - Starport - Ocellus,Steel,56304
+Orbital - Starport - Orbis,Steel,56304
+Orbital - Outpost - Commercial,Steel,5588
+Orbital - Outpost - Industrial,Steel,5588
+Orbital - Outpost - Criminal,Steel,5588
+Orbital - Outpost - Civilian,Steel,5588
+Orbital - Outpost - Scientific,Steel,5588
+Orbital - Outpost - Military,Steel,5588
+Orbital - Installation - Satellite,Steel,2542
+Orbital - Installation - Comm Station,Steel,2542
+Orbital - Installation - Space Farm,Steel,1912
+Orbital - Installation - Pirate Base,Steel,1707
+Orbital - Installation - Mining Outpost,Steel,2141
+Orbital - Installation - Relay Station,Steel,2437
+Orbital - Installation - Military,Steel,2966
+Orbital - Installation - Security Station,Steel,3645
+Orbital - Installation - Government,Steel,3080
+Orbital - Installation - Medical,Steel,3084
+Orbital - Installation - Research Station,Steel,3136
+Orbital - Installation - Tourist,Steel,2598
+Orbital - Installation - Space Bar,Steel,2483
+Surface - Planetary Port - Outpost Civilian,Steel,10164
+Surface - Planetary Port - Outpost Industrial,Steel,10164
+Surface - Planetary Port - Outpost Scientific,Steel,10164
+Surface - Planetary Port - Port,Steel,60984
+Surface - Settlement - Agriculture T1 S,Steel,768
+Surface - Settlement - Agriculture T1 M,Steel,1536
+Surface - Settlement - Agriculture T2 L,Steel,2304
+Surface - Settlement - Extraction T1 S,Steel,1028
+Surface - Settlement - Extraction T1 M,Steel,2056
+Surface - Settlement - Extraction T2 L,Steel,3084
+Surface - Settlement - Industrial T1 S,Steel,1019
+Surface - Settlement - Industrial T1 M,Steel,2038
+Surface - Settlement - Industrial T2 L,Steel,3057
+Surface - Settlement - Military T1 S,Steel,949
+Surface - Settlement - Military T1 M,Steel,1898
+Surface - Settlement - Military T2 L,Steel,2847
+Surface - Settlement - Research Bio T1 S,Steel,945
+Surface - Settlement - Research Bio T1 M,Steel,1890
+Surface - Settlement - Research Bio T2 L,Steel,2835
+Surface - Settlement - Tourism T1 S,Steel,707
+Surface - Settlement - Tourism T1 M,Steel,1414
+Surface - Settlement - Tourism T2 L,Steel,2121
+Surface - Hub - Extraction,Steel,3359
+Surface - Hub - Civilian,Steel,3775
+Surface - Hub - Exploration,Steel,3547
+Surface - Hub - Outpost,Steel,4051
+Surface - Hub - Scientific,Steel,3560
+Surface - Hub - Military,Steel,3746
+Surface - Hub - Refinery,Steel,3720
+Surface - Hub - High Tech,Steel,3768
+Surface - Hub - Industrial,Steel,3320
+Orbital - Starport - Coriolis,Semiconductors,161
+Orbital - Starport - Asteroid Base,Semiconductors,161
+Orbital - Starport - Ocellus,Semiconductors,322
+Orbital - Starport - Orbis,Semiconductors,322
+Orbital - Outpost - Commercial,Semiconductors,56
+Orbital - Outpost - Industrial,Semiconductors,56
+Orbital - Outpost - Criminal,Semiconductors,56
+Orbital - Outpost - Civilian,Semiconductors,56
+Orbital - Outpost - Scientific,Semiconductors,56
+Orbital - Outpost - Military,Semiconductors,56
+Orbital - Installation - Satellite,Semiconductors,34
+Orbital - Installation - Comm Station,Semiconductors,34
+Orbital - Installation - Relay Station,Semiconductors,39
+Orbital - Installation - Research Station,Semiconductors,51
+Surface - Planetary Port - Outpost Civilian,Semiconductors,102
+Surface - Planetary Port - Outpost Industrial,Semiconductors,102
+Surface - Planetary Port - Outpost Scientific,Semiconductors,102
+Surface - Planetary Port - Port,Semiconductors,408
+Surface - Settlement - Industrial T1 S,Semiconductors,14
+Surface - Settlement - Industrial T1 M,Semiconductors,28
+Surface - Settlement - Industrial T2 L,Semiconductors,42
+Surface - Settlement - Research Bio T1 S,Semiconductors,21
+Surface - Settlement - Research Bio T1 M,Semiconductors,42
+Surface - Settlement - Research Bio T2 L,Semiconductors,63
+Surface - Hub - Scientific,Semiconductors,72
+Surface - Hub - High Tech,Semiconductors,108
+Surface - Hub - Industrial,Semiconductors,75
+Orbital - Installation - Mining Outpost,Robotics,60
+Surface - Settlement - Extraction T1 S,Robotics,59
+Surface - Settlement - Extraction T1 M,Robotics,118
+Surface - Settlement - Extraction T2 L,Robotics,177
+Surface - Settlement - Industrial T1 S,Robotics,55
+Surface - Settlement - Industrial T1 M,Robotics,110
+Surface - Settlement - Industrial T2 L,Robotics,165
+Surface - Hub - Extraction,Robotics,252
+Surface - Hub - Refinery,Robotics,419
+Surface - Hub - High Tech,Robotics,449
+Surface - Hub - Industrial,Robotics,332
+Orbital - Installation - Mining Outpost,Resonating Separators,22
+Surface - Settlement - Industrial T1 S,Resonating Separators,14
+Surface - Settlement - Industrial T1 M,Resonating Separators,28
+Surface - Settlement - Industrial T2 L,Resonating Separators,42
+Surface - Hub - Refinery,Resonating Separators,84
+Orbital - Installation - Pirate Base,Reactive Armour,23
+Orbital - Installation - Military,Reactive Armour,30
+Surface - Settlement - Military T1 S,Reactive Armour,24
+Surface - Settlement - Military T1 M,Reactive Armour,48
+Surface - Settlement - Military T2 L,Reactive Armour,72
+Surface - Hub - Military,Reactive Armour,42
+Orbital - Starport - Coriolis,Power Generators,65
+Orbital - Starport - Asteroid Base,Power Generators,65
+Orbital - Starport - Ocellus,Power Generators,130
+Orbital - Starport - Orbis,Power Generators,130
+Orbital - Outpost - Commercial,Power Generators,19
+Orbital - Outpost - Industrial,Power Generators,19
+Orbital - Outpost - Criminal,Power Generators,19
+Orbital - Outpost - Civilian,Power Generators,19
+Orbital - Outpost - Scientific,Power Generators,19
+Orbital - Outpost - Military,Power Generators,19
+Orbital - Installation - Satellite,Power Generators,9
+Orbital - Installation - Comm Station,Power Generators,9
+Orbital - Installation - Space Farm,Power Generators,8
+Orbital - Installation - Pirate Base,Power Generators,8
+Orbital - Installation - Mining Outpost,Power Generators,9
+Orbital - Installation - Relay Station,Power Generators,10
+Orbital - Installation - Military,Power Generators,18
+Orbital - Installation - Security Station,Power Generators,13
+Orbital - Installation - Government,Power Generators,13
+Orbital - Installation - Medical,Power Generators,19
+Orbital - Installation - Research Station,Power Generators,13
+Orbital - Installation - Tourist,Power Generators,13
+Orbital - Installation - Space Bar,Power Generators,13
+Surface - Planetary Port - Outpost Civilian,Power Generators,68
+Surface - Planetary Port - Outpost Industrial,Power Generators,68
+Surface - Planetary Port - Outpost Scientific,Power Generators,68
+Surface - Planetary Port - Port,Power Generators,272
+Surface - Hub - Exploration,Power Generators,32
+Surface - Hub - Outpost,Power Generators,25
+Surface - Hub - Scientific,Power Generators,36
+Surface - Hub - Military,Power Generators,38
+Surface - Hub - Refinery,Power Generators,28
+Surface - Hub - High Tech,Power Generators,27
+Surface - Hub - Industrial,Power Generators,25
+Orbital - Starport - Coriolis,Polymers,1046
+Orbital - Starport - Asteroid Base,Polymers,1046
+Orbital - Starport - Ocellus,Polymers,2092
+Orbital - Starport - Orbis,Polymers,2092
+Orbital - Outpost - Commercial,Polymers,497
+Orbital - Outpost - Industrial,Polymers,497
+Orbital - Outpost - Criminal,Polymers,497
+Orbital - Outpost - Civilian,Polymers,497
+Orbital - Outpost - Scientific,Polymers,497
+Orbital - Outpost - Military,Polymers,497
+Orbital - Installation - Satellite,Polymers,170
+Orbital - Installation - Comm Station,Polymers,170
+Orbital - Installation - Space Farm,Polymers,230
+Orbital - Installation - Pirate Base,Polymers,190
+Orbital - Installation - Mining Outpost,Polymers,215
+Orbital - Installation - Relay Station,Polymers,195
+Orbital - Installation - Military,Polymers,416
+Orbital - Installation - Security Station,Polymers,243
+Orbital - Installation - Government,Polymers,370
+Orbital - Installation - Medical,Polymers,371
+Orbital - Installation - Research Station,Polymers,377
+Orbital - Installation - Tourist,Polymers,324
+Orbital - Installation - Space Bar,Polymers,311
+Surface - Planetary Port - Outpost Civilian,Polymers,678
+Surface - Planetary Port - Outpost Industrial,Polymers,678
+Surface - Planetary Port - Outpost Scientific,Polymers,678
+Surface - Planetary Port - Port,Polymers,2712
+Surface - Settlement - Agriculture T1 S,Polymers,91
+Surface - Settlement - Agriculture T1 M,Polymers,182
+Surface - Settlement - Agriculture T2 L,Polymers,273
+Surface - Settlement - Extraction T1 S,Polymers,118
+Surface - Settlement - Extraction T1 M,Polymers,236
+Surface - Settlement - Extraction T2 L,Polymers,354
+Surface - Settlement - Industrial T1 S,Polymers,109
+Surface - Settlement - Industrial T1 M,Polymers,218
+Surface - Settlement - Industrial T2 L,Polymers,327
+Surface - Settlement - Military T1 S,Polymers,119
+Surface - Settlement - Military T1 M,Polymers,238
+Surface - Settlement - Military T2 L,Polymers,357
+Surface - Settlement - Research Bio T1 S,Polymers,115
+Surface - Settlement - Research Bio T1 M,Polymers,230
+Surface - Settlement - Research Bio T2 L,Polymers,345
+Surface - Settlement - Tourism T1 S,Polymers,114
+Surface - Settlement - Tourism T1 M,Polymers,228
+Surface - Settlement - Tourism T2 L,Polymers,342
+Surface - Hub - Extraction,Polymers,672
+Surface - Hub - Civilian,Polymers,630
+Surface - Hub - Exploration,Polymers,666
+Surface - Hub - Scientific,Polymers,712
+Surface - Hub - Military,Polymers,708
+Surface - Hub - Refinery,Polymers,744
+Surface - Hub - High Tech,Polymers,673
+Surface - Hub - Industrial,Polymers,664
+Orbital - Installation - Space Farm,Pesticides,123
+Surface - Settlement - Agriculture T1 S,Pesticides,126
+Surface - Settlement - Agriculture T1 M,Pesticides,252
+Surface - Settlement - Agriculture T2 L,Pesticides,378
+Surface - Hub - Civilian,Pesticides,378
+Orbital - Starport - Coriolis,Non-Lethal Weapons,25
+Orbital - Starport - Asteroid Base,Non-Lethal Weapons,25
+Orbital - Starport - Ocellus,Non-Lethal Weapons,50
+Orbital - Starport - Orbis,Non-Lethal Weapons,50
+Orbital - Outpost - Commercial,Non-Lethal Weapons,13
+Orbital - Outpost - Industrial,Non-Lethal Weapons,13
+Orbital - Outpost - Criminal,Non-Lethal Weapons,13
+Orbital - Outpost - Civilian,Non-Lethal Weapons,13
+Orbital - Outpost - Scientific,Non-Lethal Weapons,13
+Orbital - Outpost - Military,Non-Lethal Weapons,13
+Orbital - Installation - Security Station,Non-Lethal Weapons,19
+Orbital - Installation - Government,Non-Lethal Weapons,13
+Surface - Planetary Port - Outpost Civilian,Non-Lethal Weapons,34
+Surface - Planetary Port - Outpost Industrial,Non-Lethal Weapons,34
+Surface - Planetary Port - Outpost Scientific,Non-Lethal Weapons,34
+Surface - Planetary Port - Port,Non-Lethal Weapons,136
+Orbital - Installation - Mining Outpost,Muon Imager,43
+Orbital - Installation - Research Station,Muon Imager,38
+Surface - Settlement - Extraction T1 S,Muon Imager,45
+Surface - Settlement - Extraction T1 M,Muon Imager,90
+Surface - Settlement - Extraction T2 L,Muon Imager,135
+Surface - Settlement - Research Bio T1 S,Muon Imager,95
+Surface - Settlement - Research Bio T1 M,Muon Imager,190
+Surface - Settlement - Research Bio T2 L,Muon Imager,285
+Surface - Hub - Extraction,Muon Imager,160
+Surface - Hub - Scientific,Muon Imager,107
+Surface - Settlement - Industrial T1 S,Mineral Extractors,164
+Surface - Settlement - Industrial T1 M,Mineral Extractors,328
+Surface - Settlement - Industrial T2 L,Mineral Extractors,492
+Surface - Hub - Industrial,Mineral Extractors,415
+Orbital - Installation - Military,Military Grade Fabrics,36
+Orbital - Installation - Security Station,Military Grade Fabrics,19
+Surface - Settlement - Military T1 S,Military Grade Fabrics,24
+Surface - Settlement - Military T1 M,Military Grade Fabrics,48
+Surface - Settlement - Military T2 L,Military Grade Fabrics,72
+Surface - Hub - Military,Military Grade Fabrics,42
+Surface - Settlement - Industrial T1 S,Microbial Furnaces,82
+Surface - Settlement - Industrial T1 M,Microbial Furnaces,164
+Surface - Settlement - Industrial T2 L,Microbial Furnaces,246
+Surface - Hub - Industrial,Microbial Furnaces,415
+Orbital - Installation - Satellite,Micro Controllers,13
+Orbital - Installation - Comm Station,Micro Controllers,13
+Orbital - Installation - Military,Micro Controllers,18
+Orbital - Installation - Research Station,Micro Controllers,13
+Surface - Settlement - Industrial T1 S,Micro Controllers,14
+Surface - Settlement - Industrial T1 M,Micro Controllers,28
+Surface - Settlement - Industrial T2 L,Micro Controllers,42
+Surface - Settlement - Military T1 S,Micro Controllers,12
+Surface - Settlement - Military T1 M,Micro Controllers,24
+Surface - Settlement - Military T2 L,Micro Controllers,36
+Surface - Settlement - Research Bio T1 S,Micro Controllers,14
+Surface - Settlement - Research Bio T1 M,Micro Controllers,28
+Surface - Settlement - Research Bio T2 L,Micro Controllers,42
+Surface - Hub - Scientific,Micro Controllers,49
+Surface - Hub - Military,Micro Controllers,55
+Surface - Hub - High Tech,Micro Controllers,90
+Surface - Hub - Industrial,Micro Controllers,50
+Orbital - Starport - Coriolis,Medical Diagnostic Equipment,25
+Orbital - Starport - Asteroid Base,Medical Diagnostic Equipment,25
+Orbital - Starport - Ocellus,Medical Diagnostic Equipment,50
+Orbital - Starport - Orbis,Medical Diagnostic Equipment,50
+Orbital - Outpost - Commercial,Medical Diagnostic Equipment,13
+Orbital - Outpost - Industrial,Medical Diagnostic Equipment,13
+Orbital - Outpost - Criminal,Medical Diagnostic Equipment,13
+Orbital - Outpost - Civilian,Medical Diagnostic Equipment,13
+Orbital - Outpost - Scientific,Medical Diagnostic Equipment,13
+Orbital - Outpost - Military,Medical Diagnostic Equipment,13
+Orbital - Installation - Medical,Medical Diagnostic Equipment,99
+Orbital - Installation - Research Station,Medical Diagnostic Equipment,51
+Surface - Planetary Port - Outpost Civilian,Medical Diagnostic Equipment,48
+Surface - Planetary Port - Outpost Industrial,Medical Diagnostic Equipment,48
+Surface - Planetary Port - Outpost Scientific,Medical Diagnostic Equipment,48
+Surface - Planetary Port - Port,Medical Diagnostic Equipment,192
+Surface - Settlement - Research Bio T1 S,Medical Diagnostic Equipment,41
+Surface - Settlement - Research Bio T1 M,Medical Diagnostic Equipment,82
+Surface - Settlement - Research Bio T2 L,Medical Diagnostic Equipment,123
+Surface - Hub - Scientific,Medical Diagnostic Equipment,161
+Orbital - Installation - Pirate Base,Liquor,228
+Orbital - Installation - Tourist,Liquor,195
+Orbital - Installation - Space Bar,Liquor,311
+Surface - Settlement - Tourism T1 S,Liquor,128
+Surface - Settlement - Tourism T1 M,Liquor,256
+Surface - Settlement - Tourism T2 L,Liquor,384
+Orbital - Starport - Coriolis,Liquid Oxygen,3781
+Orbital - Starport - Asteroid Base,Liquid Oxygen,3781
+Orbital - Starport - Ocellus,Liquid Oxygen,15124
+Orbital - Starport - Orbis,Liquid Oxygen,15124
+Orbital - Outpost - Commercial,Liquid Oxygen,1553
+Orbital - Outpost - Industrial,Liquid Oxygen,1553
+Orbital - Outpost - Criminal,Liquid Oxygen,1553
+Orbital - Outpost - Civilian,Liquid Oxygen,1553
+Orbital - Outpost - Scientific,Liquid Oxygen,1553
+Orbital - Outpost - Military,Liquid Oxygen,1553
+Orbital - Installation - Satellite,Liquid Oxygen,678
+Orbital - Installation - Comm Station,Liquid Oxygen,678
+Orbital - Installation - Space Farm,Liquid Oxygen,1071
+Orbital - Installation - Pirate Base,Liquid Oxygen,911
+Orbital - Installation - Mining Outpost,Liquid Oxygen,1028
+Orbital - Installation - Relay Station,Liquid Oxygen,780
+Orbital - Installation - Military,Liquid Oxygen,1424
+Orbital - Installation - Security Station,Liquid Oxygen,1458
+Orbital - Installation - Government,Liquid Oxygen,1479
+Orbital - Installation - Medical,Liquid Oxygen,1727
+Orbital - Installation - Research Station,Liquid Oxygen,1506
+Orbital - Installation - Tourist,Liquid Oxygen,1813
+Orbital - Installation - Space Bar,Liquid Oxygen,1738
+Surface - Planetary Port - Outpost Civilian,Liquid Oxygen,2372
+Surface - Planetary Port - Outpost Industrial,Liquid Oxygen,2372
+Surface - Planetary Port - Outpost Scientific,Liquid Oxygen,2372
+Surface - Planetary Port - Port,Liquid Oxygen,14232
+Surface - Settlement - Agriculture T1 S,Liquid Oxygen,224
+Surface - Settlement - Agriculture T1 M,Liquid Oxygen,448
+Surface - Settlement - Agriculture T2 L,Liquid Oxygen,672
+Surface - Settlement - Extraction T1 S,Liquid Oxygen,177
+Surface - Settlement - Extraction T1 M,Liquid Oxygen,354
+Surface - Settlement - Extraction T2 L,Liquid Oxygen,531
+Surface - Settlement - Industrial T1 S,Liquid Oxygen,272
+Surface - Settlement - Industrial T1 M,Liquid Oxygen,544
+Surface - Settlement - Industrial T2 L,Liquid Oxygen,816
+Surface - Settlement - Military T1 S,Liquid Oxygen,172
+Surface - Settlement - Military T1 M,Liquid Oxygen,344
+Surface - Settlement - Military T2 L,Liquid Oxygen,516
+Surface - Settlement - Research Bio T1 S,Liquid Oxygen,351
+Surface - Settlement - Research Bio T1 M,Liquid Oxygen,702
+Surface - Settlement - Research Bio T2 L,Liquid Oxygen,1053
+Surface - Settlement - Tourism T1 S,Liquid Oxygen,227
+Surface - Settlement - Tourism T1 M,Liquid Oxygen,454
+Surface - Settlement - Tourism T2 L,Liquid Oxygen,681
+Surface - Planetary Port - Outpost Civilian,Land Enrichment Systems,68
+Surface - Planetary Port - Outpost Industrial,Land Enrichment Systems,68
+Surface - Planetary Port - Outpost Scientific,Land Enrichment Systems,68
+Surface - Planetary Port - Port,Land Enrichment Systems,272
+Surface - Settlement - Agriculture T1 S,Land Enrichment Systems,70
+Surface - Settlement - Agriculture T1 M,Land Enrichment Systems,140
+Surface - Settlement - Agriculture T2 L,Land Enrichment Systems,210
+Orbital - Starport - Coriolis,Insulating Membrane,644
+Orbital - Starport - Asteroid Base,Insulating Membrane,644
+Orbital - Starport - Ocellus,Insulating Membrane,1288
+Orbital - Starport - Orbis,Insulating Membrane,1288
+Orbital - Outpost - Commercial,Insulating Membrane,311
+Orbital - Outpost - Industrial,Insulating Membrane,311
+Orbital - Outpost - Criminal,Insulating Membrane,311
+Orbital - Outpost - Civilian,Insulating Membrane,311
+Orbital - Outpost - Scientific,Insulating Membrane,311
+Orbital - Outpost - Military,Insulating Membrane,311
+Orbital - Installation - Satellite,Insulating Membrane,106
+Orbital - Installation - Comm Station,Insulating Membrane,106
+Orbital - Installation - Space Farm,Insulating Membrane,192
+Orbital - Installation - Pirate Base,Insulating Membrane,95
+Orbital - Installation - Mining Outpost,Insulating Membrane,129
+Orbital - Installation - Relay Station,Insulating Membrane,122
+Orbital - Installation - Military,Insulating Membrane,178
+Orbital - Installation - Security Station,Insulating Membrane,183
+Orbital - Installation - Government,Insulating Membrane,247
+Orbital - Installation - Medical,Insulating Membrane,309
+Orbital - Installation - Research Station,Insulating Membrane,314
+Orbital - Installation - Tourist,Insulating Membrane,259
+Orbital - Installation - Space Bar,Insulating Membrane,249
+Orbital - Installation - Mining Outpost,H.E. Suits,13
+Orbital - Installation - Medical,H.E. Suits,25
+Orbital - Installation - Research Station,H.E. Suits,32
+Surface - Settlement - Extraction T1 S,H.E. Suits,15
+Surface - Settlement - Extraction T1 M,H.E. Suits,30
+Surface - Settlement - Extraction T2 L,H.E. Suits,45
+Surface - Settlement - Industrial T1 S,H.E. Suits,14
+Surface - Settlement - Industrial T1 M,H.E. Suits,28
+Surface - Settlement - Industrial T2 L,H.E. Suits,42
+Surface - Settlement - Research Bio T1 S,H.E. Suits,27
+Surface - Settlement - Research Bio T1 M,H.E. Suits,54
+Surface - Settlement - Research Bio T2 L,H.E. Suits,81
+Surface - Hub - Extraction,H.E. Suits,126
+Surface - Hub - Exploration,H.E. Suits,249
+Surface - Hub - Scientific,H.E. Suits,156
+Surface - Hub - Refinery,H.E. Suits,117
+Surface - Hub - Industrial,H.E. Suits,83
+Orbital - Installation - Space Farm,Grain,92
+Surface - Settlement - Agriculture T1 S,Grain,77
+Surface - Settlement - Agriculture T1 M,Grain,154
+Surface - Settlement - Agriculture T2 L,Grain,231
+Orbital - Installation - Mining Outpost,Geological Equipment,26
+Orbital - Installation - Research Station,Geological Equipment,26
+Surface - Settlement - Extraction T1 S,Geological Equipment,52
+Surface - Settlement - Extraction T1 M,Geological Equipment,104
+Surface - Settlement - Extraction T2 L,Geological Equipment,156
+Surface - Settlement - Research Bio T1 S,Geological Equipment,27
+Surface - Settlement - Research Bio T1 M,Geological Equipment,54
+Surface - Settlement - Research Bio T2 L,Geological Equipment,81
+Surface - Hub - Extraction,Geological Equipment,210
+Surface - Hub - Exploration,Geological Equipment,621
+Surface - Hub - Scientific,Geological Equipment,401
+Orbital - Starport - Coriolis,Fruit and Vegetables,145
+Orbital - Starport - Asteroid Base,Fruit and Vegetables,145
+Orbital - Starport - Ocellus,Fruit and Vegetables,290
+Orbital - Starport - Orbis,Fruit and Vegetables,290
+Orbital - Outpost - Commercial,Fruit and Vegetables,50
+Orbital - Outpost - Industrial,Fruit and Vegetables,50
+Orbital - Outpost - Criminal,Fruit and Vegetables,50
+Orbital - Outpost - Civilian,Fruit and Vegetables,50
+Orbital - Outpost - Scientific,Fruit and Vegetables,50
+Orbital - Outpost - Military,Fruit and Vegetables,50
+Orbital - Installation - Satellite,Fruit and Vegetables,9
+Orbital - Installation - Comm Station,Fruit and Vegetables,9
+Orbital - Installation - Space Farm,Fruit and Vegetables,69
+Orbital - Installation - Pirate Base,Fruit and Vegetables,16
+Orbital - Installation - Mining Outpost,Fruit and Vegetables,18
+Orbital - Installation - Relay Station,Fruit and Vegetables,10
+Orbital - Installation - Military,Fruit and Vegetables,48
+Orbital - Installation - Security Station,Fruit and Vegetables,13
+Orbital - Installation - Government,Fruit and Vegetables,37
+Orbital - Installation - Medical,Fruit and Vegetables,50
+Orbital - Installation - Research Station,Fruit and Vegetables,26
+Orbital - Installation - Tourist,Fruit and Vegetables,65
+Orbital - Installation - Space Bar,Fruit and Vegetables,38
+Surface - Planetary Port - Outpost Civilian,Fruit and Vegetables,95
+Surface - Planetary Port - Outpost Industrial,Fruit and Vegetables,95
+Surface - Planetary Port - Outpost Scientific,Fruit and Vegetables,95
+Surface - Planetary Port - Port,Fruit and Vegetables,380
+Surface - Settlement - Agriculture T1 S,Fruit and Vegetables,63
+Surface - Settlement - Agriculture T1 M,Fruit and Vegetables,126
+Surface - Settlement - Agriculture T2 L,Fruit and Vegetables,189
+Surface - Settlement - Extraction T1 S,Fruit and Vegetables,30
+Surface - Settlement - Extraction T1 M,Fruit and Vegetables,60
+Surface - Settlement - Extraction T2 L,Fruit and Vegetables,90
+Surface - Settlement - Industrial T1 S,Fruit and Vegetables,28
+Surface - Settlement - Industrial T1 M,Fruit and Vegetables,56
+Surface - Settlement - Industrial T2 L,Fruit and Vegetables,84
+Surface - Settlement - Military T1 S,Fruit and Vegetables,24
+Surface - Settlement - Military T1 M,Fruit and Vegetables,48
+Surface - Settlement - Military T2 L,Fruit and Vegetables,72
+Surface - Settlement - Research Bio T1 S,Fruit and Vegetables,27
+Surface - Settlement - Research Bio T1 M,Fruit and Vegetables,54
+Surface - Settlement - Research Bio T2 L,Fruit and Vegetables,81
+Surface - Settlement - Tourism T1 S,Fruit and Vegetables,71
+Surface - Settlement - Tourism T1 M,Fruit and Vegetables,142
+Surface - Settlement - Tourism T2 L,Fruit and Vegetables,213
+Surface - Hub - Extraction,Fruit and Vegetables,34
+Surface - Hub - Civilian,Fruit and Vegetables,42
+Surface - Hub - Exploration,Fruit and Vegetables,36
+Surface - Hub - Outpost,Fruit and Vegetables,87
+Surface - Hub - Scientific,Fruit and Vegetables,36
+Surface - Hub - Military,Fruit and Vegetables,42
+Surface - Hub - Refinery,Fruit and Vegetables,38
+Surface - Hub - High Tech,Fruit and Vegetables,36
+Surface - Hub - Industrial,Fruit and Vegetables,34
+Orbital - Starport - Coriolis,Food Cartridges,242
+Orbital - Starport - Asteroid Base,Food Cartridges,242
+Orbital - Starport - Ocellus,Food Cartridges,484
+Orbital - Starport - Orbis,Food Cartridges,484
+Orbital - Outpost - Commercial,Food Cartridges,94
+Orbital - Outpost - Industrial,Food Cartridges,94
+Orbital - Outpost - Criminal,Food Cartridges,94
+Orbital - Outpost - Civilian,Food Cartridges,94
+Orbital - Outpost - Scientific,Food Cartridges,94
+Orbital - Outpost - Military,Food Cartridges,94
+Orbital - Installation - Satellite,Food Cartridges,26
+Orbital - Installation - Comm Station,Food Cartridges,26
+Orbital - Installation - Space Farm,Food Cartridges,46
+Orbital - Installation - Pirate Base,Food Cartridges,61
+Orbital - Installation - Mining Outpost,Food Cartridges,52
+Orbital - Installation - Relay Station,Food Cartridges,30
+Orbital - Installation - Military,Food Cartridges,107
+Orbital - Installation - Security Station,Food Cartridges,37
+Orbital - Installation - Government,Food Cartridges,93
+Orbital - Installation - Medical,Food Cartridges,75
+Orbital - Installation - Research Station,Food Cartridges,76
+Surface - Planetary Port - Outpost Civilian,Food Cartridges,136
+Surface - Planetary Port - Outpost Industrial,Food Cartridges,136
+Surface - Planetary Port - Outpost Scientific,Food Cartridges,136
+Surface - Planetary Port - Port,Food Cartridges,544
+Surface - Settlement - Agriculture T1 S,Food Cartridges,42
+Surface - Settlement - Agriculture T1 M,Food Cartridges,84
+Surface - Settlement - Agriculture T2 L,Food Cartridges,126
+Surface - Settlement - Extraction T1 S,Food Cartridges,45
+Surface - Settlement - Extraction T1 M,Food Cartridges,90
+Surface - Settlement - Extraction T2 L,Food Cartridges,135
+Surface - Settlement - Industrial T1 S,Food Cartridges,41
+Surface - Settlement - Industrial T1 M,Food Cartridges,82
+Surface - Settlement - Industrial T2 L,Food Cartridges,123
+Surface - Settlement - Military T1 S,Food Cartridges,36
+Surface - Settlement - Military T1 M,Food Cartridges,72
+Surface - Settlement - Military T2 L,Food Cartridges,108
+Surface - Settlement - Research Bio T1 S,Food Cartridges,41
+Surface - Settlement - Research Bio T1 M,Food Cartridges,82
+Surface - Settlement - Research Bio T2 L,Food Cartridges,123
+Surface - Hub - Extraction,Food Cartridges,51
+Surface - Hub - Civilian,Food Cartridges,68
+Surface - Hub - Exploration,Food Cartridges,54
+Surface - Hub - Outpost,Food Cartridges,174
+Surface - Hub - Scientific,Food Cartridges,54
+Surface - Hub - Military,Food Cartridges,125
+Surface - Hub - Refinery,Food Cartridges,56
+Surface - Hub - High Tech,Food Cartridges,54
+Surface - Hub - Industrial,Food Cartridges,50
+Orbital - Installation - Tourist,Fish,39
+Orbital - Installation - Space Bar,Fish,19
+Surface - Settlement - Tourism T1 S,Fish,36
+Surface - Settlement - Tourism T1 M,Fish,72
+Surface - Settlement - Tourism T2 L,Fish,108
+Surface - Planetary Port - Outpost Civilian,Evacuation Shelter,204
+Surface - Planetary Port - Outpost Industrial,Evacuation Shelter,204
+Surface - Planetary Port - Outpost Scientific,Evacuation Shelter,204
+Surface - Planetary Port - Port,Evacuation Shelter,816
+Surface - Settlement - Agriculture T1 S,Evacuation Shelter,14
+Surface - Settlement - Agriculture T1 M,Evacuation Shelter,28
+Surface - Settlement - Agriculture T2 L,Evacuation Shelter,42
+Surface - Settlement - Extraction T1 S,Evacuation Shelter,30
+Surface - Settlement - Extraction T1 M,Evacuation Shelter,60
+Surface - Settlement - Extraction T2 L,Evacuation Shelter,90
+Surface - Settlement - Industrial T1 S,Evacuation Shelter,21
+Surface - Settlement - Industrial T1 M,Evacuation Shelter,42
+Surface - Settlement - Industrial T2 L,Evacuation Shelter,63
+Surface - Settlement - Military T1 S,Evacuation Shelter,36
+Surface - Settlement - Military T1 M,Evacuation Shelter,72
+Surface - Settlement - Military T2 L,Evacuation Shelter,108
+Surface - Settlement - Research Bio T1 S,Evacuation Shelter,27
+Surface - Settlement - Research Bio T1 M,Evacuation Shelter,54
+Surface - Settlement - Research Bio T2 L,Evacuation Shelter,81
+Surface - Settlement - Tourism T1 S,Evacuation Shelter,22
+Surface - Settlement - Tourism T1 M,Evacuation Shelter,44
+Surface - Settlement - Tourism T2 L,Evacuation Shelter,66
+Surface - Hub - Extraction,Evacuation Shelter,51
+Surface - Hub - Civilian,Evacuation Shelter,68
+Surface - Hub - Exploration,Evacuation Shelter,36
+Surface - Hub - Outpost,Evacuation Shelter,49
+Surface - Hub - Scientific,Evacuation Shelter,36
+Surface - Hub - Military,Evacuation Shelter,75
+Surface - Hub - Refinery,Evacuation Shelter,56
+Surface - Hub - High Tech,Evacuation Shelter,45
+Surface - Hub - Industrial,Evacuation Shelter,50
+Surface - Planetary Port - Outpost Civilian,Emergency Power Cells,68
+Surface - Planetary Port - Outpost Industrial,Emergency Power Cells,68
+Surface - Planetary Port - Outpost Scientific,Emergency Power Cells,68
+Surface - Planetary Port - Port,Emergency Power Cells,272
+Surface - Settlement - Agriculture T1 S,Emergency Power Cells,84
+Surface - Settlement - Agriculture T1 M,Emergency Power Cells,168
+Surface - Settlement - Agriculture T2 L,Emergency Power Cells,252
+Surface - Settlement - Extraction T1 S,Emergency Power Cells,96
+Surface - Settlement - Extraction T1 M,Emergency Power Cells,192
+Surface - Settlement - Extraction T2 L,Emergency Power Cells,288
+Surface - Settlement - Industrial T1 S,Emergency Power Cells,28
+Surface - Settlement - Industrial T1 M,Emergency Power Cells,56
+Surface - Settlement - Industrial T2 L,Emergency Power Cells,84
+Surface - Settlement - Military T1 S,Emergency Power Cells,24
+Surface - Settlement - Military T1 M,Emergency Power Cells,48
+Surface - Settlement - Military T2 L,Emergency Power Cells,72
+Surface - Settlement - Research Bio T1 S,Emergency Power Cells,27
+Surface - Settlement - Research Bio T1 M,Emergency Power Cells,54
+Surface - Settlement - Research Bio T2 L,Emergency Power Cells,81
+Surface - Settlement - Tourism T1 S,Emergency Power Cells,15
+Surface - Settlement - Tourism T1 M,Emergency Power Cells,30
+Surface - Settlement - Tourism T2 L,Emergency Power Cells,45
+Surface - Hub - Extraction,Emergency Power Cells,42
+Surface - Hub - Civilian,Emergency Power Cells,42
+Surface - Hub - Exploration,Emergency Power Cells,45
+Surface - Hub - Outpost,Emergency Power Cells,49
+Surface - Hub - Scientific,Emergency Power Cells,63
+Surface - Hub - Military,Emergency Power Cells,63
+Surface - Hub - Refinery,Emergency Power Cells,47
+Surface - Hub - High Tech,Emergency Power Cells,59
+Surface - Hub - Industrial,Emergency Power Cells,42
+Orbital - Installation - Space Farm,Crop Harvesters,77
+Surface - Settlement - Agriculture T1 S,Crop Harvesters,210
+Surface - Settlement - Agriculture T1 M,Crop Harvesters,420
+Surface - Settlement - Agriculture T2 L,Crop Harvesters,630
+Surface - Hub - Civilian,Crop Harvesters,210
+Orbital - Starport - Coriolis,Copper,644
+Orbital - Starport - Asteroid Base,Copper,644
+Orbital - Starport - Ocellus,Copper,2576
+Orbital - Starport - Orbis,Copper,2576
+Orbital - Outpost - Commercial,Copper,218
+Orbital - Outpost - Industrial,Copper,217
+Orbital - Outpost - Criminal,Copper,218
+Orbital - Outpost - Civilian,Copper,218
+Orbital - Outpost - Scientific,Copper,218
+Orbital - Outpost - Military,Copper,218
+Orbital - Installation - Satellite,Copper,85
+Orbital - Installation - Comm Station,Copper,85
+Orbital - Installation - Space Farm,Copper,46
+Orbital - Installation - Pirate Base,Copper,57
+Orbital - Installation - Mining Outpost,Copper,52
+Orbital - Installation - Relay Station,Copper,88
+Orbital - Installation - Military,Copper,131
+Orbital - Installation - Security Station,Copper,122
+Orbital - Installation - Government,Copper,93
+Orbital - Installation - Medical,Copper,112
+Orbital - Installation - Research Station,Copper,126
+Orbital - Installation - Tourist,Copper,78
+Orbital - Installation - Space Bar,Copper,75
+Surface - Planetary Port - Outpost Civilian,Copper,407
+Surface - Planetary Port - Outpost Industrial,Copper,407
+Surface - Planetary Port - Outpost Scientific,Copper,407
+Surface - Planetary Port - Port,Copper,2442
+Surface - Settlement - Agriculture T1 S,Copper,21
+Surface - Settlement - Agriculture T1 M,Copper,42
+Surface - Settlement - Agriculture T2 L,Copper,63
+Surface - Settlement - Extraction T1 S,Copper,30
+Surface - Settlement - Extraction T1 M,Copper,60
+Surface - Settlement - Extraction T2 L,Copper,90
+Surface - Settlement - Industrial T1 S,Copper,28
+Surface - Settlement - Industrial T1 M,Copper,56
+Surface - Settlement - Industrial T2 L,Copper,84
+Surface - Settlement - Military T1 S,Copper,30
+Surface - Settlement - Military T1 M,Copper,60
+Surface - Settlement - Military T2 L,Copper,90
+Surface - Settlement - Research Bio T1 S,Copper,34
+Surface - Settlement - Research Bio T1 M,Copper,68
+Surface - Settlement - Research Bio T2 L,Copper,102
+Surface - Settlement - Tourism T1 S,Copper,22
+Surface - Settlement - Tourism T1 M,Copper,44
+Surface - Settlement - Tourism T2 L,Copper,66
+Surface - Hub - Extraction,Copper,84
+Surface - Hub - Civilian,Copper,68
+Surface - Hub - Exploration,Copper,178
+Surface - Hub - Outpost,Copper,78
+Surface - Hub - Scientific,Copper,112
+Surface - Hub - Military,Copper,105
+Surface - Hub - Refinery,Copper,93
+Surface - Hub - High Tech,Copper,113
+Surface - Hub - Industrial,Copper,83
+Orbital - Starport - Coriolis,Computer Components,145
+Orbital - Starport - Asteroid Base,Computer Components,145
+Orbital - Starport - Ocellus,Computer Components,290
+Orbital - Starport - Orbis,Computer Components,290
+Orbital - Outpost - Commercial,Computer Components,50
+Orbital - Outpost - Industrial,Computer Components,50
+Orbital - Outpost - Criminal,Computer Components,50
+Orbital - Outpost - Civilian,Computer Components,50
+Orbital - Outpost - Scientific,Computer Components,50
+Orbital - Outpost - Military,Computer Components,50
+Orbital - Installation - Satellite,Computer Components,22
+Orbital - Installation - Comm Station,Computer Components,22
+Orbital - Installation - Space Farm,Computer Components,12
+Orbital - Installation - Pirate Base,Computer Components,19
+Orbital - Installation - Mining Outpost,Computer Components,13
+Orbital - Installation - Relay Station,Computer Components,25
+Orbital - Installation - Military,Computer Components,42
+Orbital - Installation - Security Station,Computer Components,31
+Orbital - Installation - Government,Computer Components,13
+Orbital - Installation - Medical,Computer Components,31
+Orbital - Installation - Research Station,Computer Components,38
+Orbital - Installation - Tourist,Computer Components,13
+Orbital - Installation - Space Bar,Computer Components,13
+Surface - Planetary Port - Outpost Civilian,Computer Components,102
+Surface - Planetary Port - Outpost Industrial,Computer Components,102
+Surface - Planetary Port - Outpost Scientific,Computer Components,102
+Surface - Planetary Port - Port,Computer Components,408
+Surface - Settlement - Agriculture T1 S,Computer Components,14
+Surface - Settlement - Agriculture T1 M,Computer Components,28
+Surface - Settlement - Agriculture T2 L,Computer Components,42
+Surface - Settlement - Extraction T1 S,Computer Components,30
+Surface - Settlement - Extraction T1 M,Computer Components,60
+Surface - Settlement - Extraction T2 L,Computer Components,90
+Surface - Settlement - Industrial T1 S,Computer Components,28
+Surface - Settlement - Industrial T1 M,Computer Components,56
+Surface - Settlement - Industrial T2 L,Computer Components,84
+Surface - Settlement - Military T1 S,Computer Components,42
+Surface - Settlement - Military T1 M,Computer Components,84
+Surface - Settlement - Military T2 L,Computer Components,126
+Surface - Settlement - Research Bio T1 S,Computer Components,41
+Surface - Settlement - Research Bio T1 M,Computer Components,82
+Surface - Settlement - Research Bio T2 L,Computer Components,123
+Surface - Settlement - Tourism T1 S,Computer Components,15
+Surface - Settlement - Tourism T1 M,Computer Components,30
+Surface - Settlement - Tourism T2 L,Computer Components,45
+Surface - Hub - Extraction,Computer Components,38
+Surface - Hub - Civilian,Computer Components,21
+Surface - Hub - Exploration,Computer Components,49
+Surface - Hub - Outpost,Computer Components,25
+Surface - Hub - Scientific,Computer Components,67
+Surface - Hub - Military,Computer Components,75
+Surface - Hub - Refinery,Computer Components,42
+Surface - Hub - High Tech,Computer Components,68
+Surface - Hub - Industrial,Computer Components,38
+Orbital - Installation - Military,Combat Stabilizers,48
+Orbital - Installation - Security Station,Combat Stabilizers,25
+Orbital - Installation - Medical,Combat Stabilizers,19
+Surface - Settlement - Military T1 S,Combat Stabilizers,36
+Surface - Settlement - Military T1 M,Combat Stabilizers,72
+Surface - Settlement - Military T2 L,Combat Stabilizers,108
+Surface - Hub - Military,Combat Stabilizers,25
+Orbital - Installation - Tourist,Coffee,130
+Orbital - Installation - Space Bar,Coffee,63
+Surface - Settlement - Tourism T1 S,Coffee,71
+Surface - Settlement - Tourism T1 M,Coffee,142
+Surface - Settlement - Tourism T2 L,Coffee,213
+Orbital - Starport - Coriolis,Ceramic Composites,1207
+Orbital - Starport - Asteroid Base,Ceramic Composites,1207
+Orbital - Starport - Ocellus,Ceramic Composites,4828
+Orbital - Starport - Orbis,Ceramic Composites,4828
+Orbital - Outpost - Commercial,Ceramic Composites,497
+Orbital - Outpost - Industrial,Ceramic Composites,497
+Orbital - Outpost - Criminal,Ceramic Composites,497
+Orbital - Outpost - Civilian,Ceramic Composites,497
+Orbital - Outpost - Scientific,Ceramic Composites,497
+Orbital - Outpost - Military,Ceramic Composites,497
+Orbital - Installation - Satellite,Ceramic Composites,85
+Orbital - Installation - Comm Station,Ceramic Composites,85
+Orbital - Installation - Space Farm,Ceramic Composites,77
+Orbital - Installation - Pirate Base,Ceramic Composites,95
+Orbital - Installation - Mining Outpost,Ceramic Composites,86
+Orbital - Installation - Relay Station,Ceramic Composites,98
+Orbital - Installation - Military,Ceramic Composites,238
+Orbital - Installation - Security Station,Ceramic Composites,122
+Orbital - Installation - Government,Ceramic Composites,154
+Orbital - Installation - Medical,Ceramic Composites,155
+Orbital - Installation - Research Station,Ceramic Composites,157
+Orbital - Installation - Tourist,Ceramic Composites,130
+Orbital - Installation - Space Bar,Ceramic Composites,125
+Surface - Planetary Port - Outpost Civilian,Ceramic Composites,814
+Surface - Planetary Port - Outpost Industrial,Ceramic Composites,814
+Surface - Planetary Port - Outpost Scientific,Ceramic Composites,814
+Surface - Planetary Port - Port,Ceramic Composites,4884
+Surface - Settlement - Agriculture T1 S,Ceramic Composites,28
+Surface - Settlement - Agriculture T1 M,Ceramic Composites,56
+Surface - Settlement - Agriculture T2 L,Ceramic Composites,84
+Surface - Settlement - Extraction T1 S,Ceramic Composites,59
+Surface - Settlement - Extraction T1 M,Ceramic Composites,118
+Surface - Settlement - Extraction T2 L,Ceramic Composites,177
+Surface - Settlement - Industrial T1 S,Ceramic Composites,55
+Surface - Settlement - Industrial T1 M,Ceramic Composites,110
+Surface - Settlement - Industrial T2 L,Ceramic Composites,165
+Surface - Settlement - Military T1 S,Ceramic Composites,60
+Surface - Settlement - Military T1 M,Ceramic Composites,120
+Surface - Settlement - Military T2 L,Ceramic Composites,180
+Surface - Settlement - Research Bio T1 S,Ceramic Composites,41
+Surface - Settlement - Research Bio T1 M,Ceramic Composites,82
+Surface - Settlement - Research Bio T2 L,Ceramic Composites,123
+Surface - Settlement - Tourism T1 S,Ceramic Composites,43
+Surface - Settlement - Tourism T1 M,Ceramic Composites,86
+Surface - Settlement - Tourism T2 L,Ceramic Composites,129
+Surface - Hub - Extraction,Ceramic Composites,252
+Surface - Hub - Civilian,Ceramic Composites,126
+Surface - Hub - Exploration,Ceramic Composites,134
+Surface - Hub - Outpost,Ceramic Composites,145
+Surface - Hub - Scientific,Ceramic Composites,223
+Surface - Hub - Military,Ceramic Composites,375
+Surface - Hub - Refinery,Ceramic Composites,279
+Surface - Hub - High Tech,Ceramic Composites,225
+Surface - Hub - Industrial,Ceramic Composites,249
+Orbital - Starport - Coriolis,CMM Composite,11261
+Orbital - Starport - Asteroid Base,CMM Composite,11261
+Orbital - Starport - Ocellus,CMM Composite,45044
+Orbital - Starport - Orbis,CMM Composite,45044
+Orbital - Outpost - Commercial,CMM Composite,3912
+Orbital - Outpost - Industrial,CMM Composite,3912
+Orbital - Outpost - Criminal,CMM Composite,3912
+Orbital - Outpost - Civilian,CMM Composite,3912
+Orbital - Outpost - Scientific,CMM Composite,3912
+Orbital - Outpost - Military,CMM Composite,3912
+Orbital - Installation - Military,CMM Composite,356
+Surface - Planetary Port - Outpost Civilian,CMM Composite,6776
+Surface - Planetary Port - Outpost Industrial,CMM Composite,6776
+Surface - Planetary Port - Outpost Scientific,CMM Composite,6776
+Surface - Planetary Port - Port,CMM Composite,40656
+Surface - Settlement - Military T1 S,CMM Composite,356
+Surface - Settlement - Military T1 M,CMM Composite,712
+Surface - Settlement - Military T2 L,CMM Composite,1068
+Surface - Hub - Military,CMM Composite,333
+Surface - Hub - High Tech,CMM Composite,270
+Surface - Planetary Port - Outpost Civilian,Building Fabricators,407
+Surface - Planetary Port - Outpost Industrial,Building Fabricators,407
+Surface - Planetary Port - Outpost Scientific,Building Fabricators,407
+Surface - Planetary Port - Port,Building Fabricators,2442
+Surface - Settlement - Agriculture T1 S,Building Fabricators,42
+Surface - Settlement - Agriculture T1 M,Building Fabricators,84
+Surface - Settlement - Agriculture T2 L,Building Fabricators,126
+Surface - Settlement - Extraction T1 S,Building Fabricators,59
+Surface - Settlement - Extraction T1 M,Building Fabricators,118
+Surface - Settlement - Extraction T2 L,Building Fabricators,177
+Surface - Settlement - Industrial T1 S,Building Fabricators,55
+Surface - Settlement - Industrial T1 M,Building Fabricators,110
+Surface - Settlement - Industrial T2 L,Building Fabricators,165
+Surface - Settlement - Military T1 S,Building Fabricators,60
+Surface - Settlement - Military T1 M,Building Fabricators,120
+Surface - Settlement - Military T2 L,Building Fabricators,180
+Surface - Settlement - Research Bio T1 S,Building Fabricators,54
+Surface - Settlement - Research Bio T1 M,Building Fabricators,108
+Surface - Settlement - Research Bio T2 L,Building Fabricators,162
+Surface - Settlement - Tourism T1 S,Building Fabricators,29
+Surface - Settlement - Tourism T1 M,Building Fabricators,58
+Surface - Settlement - Tourism T2 L,Building Fabricators,87
+Surface - Hub - Extraction,Building Fabricators,210
+Surface - Hub - Civilian,Building Fabricators,84
+Surface - Hub - Exploration,Building Fabricators,89
+Surface - Hub - Outpost,Building Fabricators,290
+Surface - Hub - Scientific,Building Fabricators,178
+Surface - Hub - Military,Building Fabricators,333
+Surface - Hub - Refinery,Building Fabricators,233
+Surface - Hub - High Tech,Building Fabricators,135
+Surface - Hub - Industrial,Building Fabricators,208
+Orbital - Installation - Space Farm,Biowaste,153
+Surface - Settlement - Agriculture T1 S,Biowaste,280
+Surface - Settlement - Agriculture T1 M,Biowaste,560
+Surface - Settlement - Agriculture T2 L,Biowaste,840
+Surface - Hub - Civilian,Biowaste,630
+Orbital - Installation - Mining Outpost,Bioreducing Lichen,172
+Surface - Settlement - Extraction T1 S,Bioreducing Lichen,162
+Surface - Settlement - Extraction T1 M,Bioreducing Lichen,324
+Surface - Settlement - Extraction T2 L,Bioreducing Lichen,486
+Surface - Hub - Extraction,Bioreducing Lichen,714
+Orbital - Installation - Pirate Base,Beer,380
+Orbital - Installation - Tourist,Beer,389
+Orbital - Installation - Space Bar,Beer,497
+Surface - Settlement - Tourism T1 S,Beer,311
+Surface - Settlement - Tourism T1 M,Beer,622
+Surface - Settlement - Tourism T2 L,Beer,933
+Orbital - Installation - Pirate Base,Battle Weapons,23
+Orbital - Installation - Military,Battle Weapons,30
+Orbital - Installation - Security Station,Battle Weapons,19
+Surface - Settlement - Military T1 S,Battle Weapons,24
+Surface - Settlement - Military T1 M,Battle Weapons,48
+Surface - Settlement - Military T2 L,Battle Weapons,72
+Surface - Hub - Military,Battle Weapons,42
+Orbital - Installation - Military,Basic Medicines,24
+Orbital - Installation - Medical,Basic Medicines,50
+Orbital - Installation - Research Station,Basic Medicines,13
+Surface - Settlement - Military T1 S,Basic Medicines,36
+Surface - Settlement - Military T1 M,Basic Medicines,72
+Surface - Settlement - Military T2 L,Basic Medicines,108
+Surface - Settlement - Research Bio T1 S,Basic Medicines,14
+Surface - Settlement - Research Bio T1 M,Basic Medicines,28
+Surface - Settlement - Research Bio T2 L,Basic Medicines,42
+Surface - Hub - Scientific,Basic Medicines,72
+Surface - Hub - Military,Basic Medicines,109
+Orbital - Installation - Tourist,Animal Meat,78
+Orbital - Installation - Space Bar,Animal Meat,38
+Surface - Settlement - Tourism T1 S,Animal Meat,71
+Surface - Settlement - Tourism T1 M,Animal Meat,142
+Surface - Settlement - Tourism T2 L,Animal Meat,213
+Orbital - Starport - Coriolis,Aluminium,10055
+Orbital - Starport - Asteroid Base,Aluminium,10055
+Orbital - Starport - Ocellus,Aluminium,40220
+Orbital - Starport - Orbis,Aluminium,40220
+Orbital - Outpost - Commercial,Aluminium,515
+Orbital - Outpost - Industrial,Aluminium,515
+Orbital - Outpost - Criminal,Aluminium,515
+Orbital - Outpost - Civilian,Aluminium,515
+Orbital - Outpost - Scientific,Aluminium,515
+Orbital - Outpost - Military,Aluminium,515
+Orbital - Installation - Satellite,Aluminium,1322
+Orbital - Installation - Comm Station,Aluminium,1322
+Orbital - Installation - Space Farm,Aluminium,842
+Orbital - Installation - Pirate Base,Aluminium,1233
+Orbital - Installation - Mining Outpost,Aluminium,921
+Orbital - Installation - Relay Station,Aluminium,1033
+Orbital - Installation - Military,Aluminium,1317
+Orbital - Installation - Security Station,Aluminium,1774
+Orbital - Installation - Government,Aluminium,1959
+Orbital - Installation - Medical,Aluminium,1357
+Orbital - Installation - Research Station,Aluminium,1380
+Orbital - Installation - Tourist,Aluminium,1269
+Orbital - Installation - Space Bar,Aluminium,1217
+Surface - Planetary Port - Outpost Civilian,Aluminium,7047
+Surface - Planetary Port - Outpost Industrial,Aluminium,7047
+Surface - Planetary Port - Outpost Scientific,Aluminium,7047
+Surface - Planetary Port - Port,Aluminium,42282
+Surface - Settlement - Agriculture T1 S,Aluminium,559
+Surface - Settlement - Agriculture T1 M,Aluminium,1118
+Surface - Settlement - Agriculture T2 L,Aluminium,1677
+Surface - Settlement - Extraction T1 S,Aluminium,632
+Surface - Settlement - Extraction T1 M,Aluminium,1264
+Surface - Settlement - Extraction T2 L,Aluminium,1896
+Surface - Settlement - Industrial T1 S,Aluminium,585
+Surface - Settlement - Industrial T1 M,Aluminium,1170
+Surface - Settlement - Industrial T2 L,Aluminium,1755
+Surface - Settlement - Military T1 S,Aluminium,593
+Surface - Settlement - Military T1 M,Aluminium,1186
+Surface - Settlement - Military T2 L,Aluminium,1779
+Surface - Settlement - Research Bio T1 S,Aluminium,607
+Surface - Settlement - Research Bio T1 M,Aluminium,1214
+Surface - Settlement - Research Bio T2 L,Aluminium,1821
+Surface - Settlement - Tourism T1 S,Aluminium,509
+Surface - Settlement - Tourism T1 M,Aluminium,1018
+Surface - Settlement - Tourism T2 L,Aluminium,1527
+Surface - Hub - Extraction,Aluminium,2352
+Surface - Hub - Civilian,Aluminium,2433
+Surface - Hub - Exploration,Aluminium,2483
+Surface - Hub - Outpost,Aluminium,2797
+Surface - Hub - Scientific,Aluminium,2581
+Surface - Hub - Military,Aluminium,2414
+Surface - Hub - Refinery,Aluminium,2697
+Surface - Hub - High Tech,Aluminium,2512
+Surface - Hub - Industrial,Aluminium,2407
+Orbital - Installation - Space Farm,Agri-Medicines,115
+Surface - Hub - Civilian,Agri-Medicines,235
+Orbital - Installation - Research Station,Advanced Catalysers,44
+Surface - Settlement - Industrial T1 S,Advanced Catalysers,41
+Surface - Settlement - Industrial T1 M,Advanced Catalysers,82
+Surface - Settlement - Industrial T2 L,Advanced Catalysers,123
+Surface - Settlement - Research Bio T1 S,Advanced Catalysers,95
+Surface - Settlement - Research Bio T1 M,Advanced Catalysers,190
+Surface - Settlement - Research Bio T2 L,Advanced Catalysers,285
+Surface - Hub - Scientific,Advanced Catalysers,170
+Surface - Hub - Refinery,Advanced Catalysers,112
